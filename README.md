@@ -1,56 +1,55 @@
-# Hi there! 👋 I'm Hana Jaber
+![Hana Jaber - Programmer & AI Enthusiast](./assets/hana-header.png)
 
-🎓 High School Student | 💻 Programmer | 🤖 AI Enthusiast
+# Hello, everyone! 👋
 
-I'm Hana Jaber, a high school student passionate about programming, technology, and Artificial Intelligence.
+My name is **Hana Jaber**. I'm a high school student, programmer, and AI enthusiast.
 
-I enjoy learning new technologies, building projects, solving problems, and exploring how AI can make a difference.
+I'm passionate about programming, Artificial Intelligence, and technology. I enjoy learning new skills, building projects, solving problems, and exploring creative ideas.
 
-I believe in teamwork, continuous learning, and turning ideas into reality through code.
+I strongly believe in teamwork, collaboration, and continuous learning.
 
 ## 🔧 Technologies & Tools
 
-**Programming Languages**
+![](https://img.shields.io/badge/Code-Python-3776AB?style=flat&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/Code-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![](https://img.shields.io/badge/Code-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/Interest-Artificial_Intelligence-8A2BE2?style=flat&logo=openai&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+## 🚀 What I'm Interested In
 
-**Interests**
+- Artificial Intelligence & Machine Learning
+- Software Development
+- Problem Solving
+- Building Creative Projects
+- Teamwork & Collaboration
 
-![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-412991?style=flat&logo=openai&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-2bbc8a?style=flat)
-![Teamwork](https://img.shields.io/badge/Teamwork-0077B5?style=flat)
+## ✍️ Blog & Writing
 
-## 🚀 What I'm Working On
+I enjoy sharing my programming journey, documenting what I learn, and exploring new ideas.
 
-- Improving my programming skills.
-- Exploring Artificial Intelligence.
-- Building personal programming projects.
-- Learning through teamwork and collaboration.
-- Turning creative ideas into real-world projects.
+More articles and technical content coming soon!
 
-## 🌱 Currently Learning
+## 📈 GitHub Stats
 
-- Python
-- JavaScript
-- C++
-- HTML
-- Artificial Intelligence
+<a href="https://github.com/YOUR_USERNAME">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+</a>
 
-## 📊 GitHub Stats
+<a href="https://github.com/YOUR_USERNAME">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</a>
 
-![Hana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+## 🌟 Featured Projects
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+<!-- Add your project cards here -->
 
 ## 🤝 Let's Connect!
 
-I'm always interested in learning, sharing ideas, and collaborating on exciting projects.
+I'm always excited to meet new people, exchange ideas, learn together, and collaborate on interesting projects.
 
-📌 GitHub: [Hana Jaber](https://github.com/YOUR_USERNAME)
+**Let's build something amazing together!** 💜
 
 ---
 
-⭐ *"Great things are built through curiosity, creativity, and teamwork."*
+⭐ *Dream Big. Code Bigger. Keep Learning.*
