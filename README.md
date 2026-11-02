@@ -1,16 +1,12 @@
-# Hello, World! 👋 I'm Hana Jaber
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+# Hi there! 👋 I'm Hana Jaber
 
 🎓 High School Student | 💻 Programmer | 🤖 AI Enthusiast
 
-I'm **Hana Jaber**, a high school student passionate about programming, technology, and Artificial Intelligence.
+I'm Hana Jaber, a high school student passionate about programming, technology, and Artificial Intelligence.
 
-I'm continuously learning, building projects, and exploring how technology can solve real-world problems.
+I enjoy learning new technologies, building projects, solving problems, and exploring how AI can make a difference.
 
-I believe that **great ideas become greater through teamwork**, and I'm always excited to learn, collaborate, and create something meaningful.
-
----
+I believe in teamwork, continuous learning, and turning ideas into reality through code.
 
 ## 🔧 Technologies & Tools
 
@@ -23,41 +19,38 @@ I believe that **great ideas become greater through teamwork**, and I'm always e
 
 **Interests**
 
-- Artificial Intelligence 🤖
-- Software Development 💻
-- Problem Solving 🧩
-- Robotics & Technology ⚙️
-- Teamwork & Collaboration 🤝
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-412991?style=flat&logo=openai&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-2bbc8a?style=flat)
+![Teamwork](https://img.shields.io/badge/Teamwork-0077B5?style=flat)
 
----
-
-## 🌱 Currently Learning
+## 🚀 What I'm Working On
 
 - Improving my programming skills.
 - Exploring Artificial Intelligence.
-- Building practical programming projects.
-- Developing my problem-solving abilities.
+- Building personal programming projects.
+- Learning through teamwork and collaboration.
+- Turning creative ideas into real-world projects.
 
----
+## 🌱 Currently Learning
 
-## 🚀 My Goals
-
-- Become a skilled Software Developer.
-- Explore the world of AI and machine learning.
-- Build creative and useful projects.
-- Collaborate with other developers and innovators.
-- Never stop learning!
-
----
+- Python
+- JavaScript
+- C++
+- HTML
+- Artificial Intelligence
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Hana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
+## 🤝 Let's Connect!
+
+I'm always interested in learning, sharing ideas, and collaborating on exciting projects.
+
+📌 GitHub: [Hana Jaber](https://github.com/YOUR_USERNAME)
+
 ---
 
-### 💡 "Code. Create. Collaborate. Repeat."
-
-Thanks for visiting my profile! 💜
+⭐ *"Great things are built through curiosity, creativity, and teamwork."*
